@@ -1,5 +1,5 @@
 # Pig Dice Game
-This is a program that allows the user to input the length value of the three sides of a triangle. The program then lets the user know what type of a triangle it is or whether it is not a triangle at all.
+The program is a game that allows two users to play against each other by 'tossing' a dice. The first player to score 100 points wins the game.
 ## Author
 - [Anne M](https://github.com/AnneMW).
 ## BDD
