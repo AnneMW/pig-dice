@@ -7,3 +7,22 @@ body{
   width: 100%;
   height: auto;
 }
+.win{
+  font-size: 30px;
+}
+#score1{
+  width: 25%;
+}
+#totalScore1{
+  width: 35%
+}
+#score2{
+  width: 25%;
+}
+#totalScore2{
+  width: 35%;
+}
+#winner{
+  width: 30%;
+  color: blue;
+}
