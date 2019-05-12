@@ -7,6 +7,24 @@ body{
   width: 100%;
   height: auto;
 }
+#fox{
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 40px;
+  text-align: center;
+}
+.rule{
+  font-family: 'Stylish', sans-serif;
+  font-size: 30px;
+}
+#link{
+  font-size: 60px;
+}
+#link:hover{
+  color: #00FFFF;
+}
+#text{
+  font-family: 'Roboto Mono', monospace;
+}
 .win{
   font-size: 30px;
 }
