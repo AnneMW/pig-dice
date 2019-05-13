@@ -33,4 +33,4 @@ Pull requests are welcome.
 - Still a work-in-progress.
 - Hope to improve most features soon enough.
 ## License
-[MIT](https://github.com/AnneMW/pig-dice/blob/master/LICENSE.txt)
+- [MIT](https://github.com/AnneMW/pig-dice/blob/master/LICENSE.txt)
