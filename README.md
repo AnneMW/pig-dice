@@ -1,5 +1,7 @@
 # Pig Dice Game
 The program is a game that allows two users to play against each other by 'tossing' a dice. The first player to score 100 points wins the game.
+## Description
+Players throw a dice and scores as many points as the total shown on the dice providing the dice doesn’t roll a 1. The player may continue rolling and accumulating points (but risk rolling a 1) or hold end his turn and store his score. If the player rolls a 1 his turn is over, he loses all points he accumulated that turn, and he passes the dice to the next player. Play passes from player to player until a winner is determined. The first player to score 100 wins the game.
 ## Author
 - [Anne M](https://github.com/AnneMW).
 ## BDD
@@ -14,8 +16,8 @@ The program is a game that allows two users to play against each other by 'tossi
 Web browser.
 Internet.
 ## Set-up Instructions
-- To clone the project use the following link: https://github.com/AnneMW/pig-dice
-- View the live site here: https://annemw.github.io/pig-dice/
+- To clone the project, use the following link: https://github.com/AnneMW/pig-dice
+- To view the live site, use the following link: https://annemw.github.io/pig-dice/
 ## Usage
 The program is a game that allows two users to play against each other by 'tossing' a dice.
 ## Bugs
