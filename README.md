@@ -14,8 +14,8 @@ The program is a game that allows two users to play against each other by 'tossi
 Web browser.
 Internet.
 ## Set-up Instructions
-To clone the project use the following link: https://github.com/AnneMW/pig-dice
-or view the live site here: https://annemw.github.io/pig-dice/
+- To clone the project use the following link: https://github.com/AnneMW/pig-dice
+- View the live site here: https://annemw.github.io/pig-dice/
 ## Usage
 The program is a game that allows two users to play against each other by 'tossing' a dice.
 ## Bugs
@@ -27,10 +27,10 @@ None so far.
 ## Contributing
 Pull requests are welcome.
 ## Support
-Name: Anne M
-Contact: annesnowwoods@gmail.com
+- Name: Anne M
+- Contact: annesnowwoods@gmail.com
 ## Project Status
-Still a work-in-progress.
-Hope to improve most features soon enough.
+- Still a work-in-progress.
+- Hope to improve most features soon enough.
 ## License
 [MIT](https://github.com/AnneMW/pig-dice/blob/master/LICENSE.txt)
