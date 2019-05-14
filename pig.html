@@ -14,22 +14,28 @@
          <div class="row">
             <div class="col-sm-6">
                <p>Player One</p>
-               <button type="button" class="btn btn-outline-dark" onclick="roll()">Roll Dice</button>
-               <br><br>
-               <button type="button" class="btn btn-dark" onclick="hold()">Hold</button>
+               <button type="button" class="btn btn-outline-dark" onclick="roll1()">Roll Dice</button>
                <br><br>
                <form>
                   <div class="form-group row">
                      <div>
                         <label>Score</label>
-                        <input class="form-control" id="score1" type="number">
                      </div>
-                  </div>
+                   </div>
+                     <div>
+                       <div id='score1'></div>
+                        </div>
+                        <br><br>
+                    <button type="button" class="btn btn-dark" onclick="hold()">Hold</button>
+                    <br><br>
                   <div class="form-group row">
                      <div>
                         <label>Total Score</label>
-                        <input class="form-control" id="totalScore1" type="number">
                      </div>
+                     <br><br>
+                      <div>
+                        <div id='totalScore2'></div>
+                    </div>
                   </div>
                </form>
             </div>
@@ -37,20 +43,26 @@
                <p>Player Two</p>
                <button type="button" class="btn btn-outline-dark" onclick="roll2()">Roll Dice</button>
                <br><br>
-               <button type="button" class="btn btn-dark" onclick="hold()">Hold</button>
-               <br><br>
                <form>
                   <div class="form-group row">
                      <div>
                         <label>Score</label>
-                        <input class="form-control" id="score2" type="number">
                      </div>
-                  </div>
+                   </div>
+                     <div>
+                       <div id='score2'></div>
+                        </div>
+                        <br><br>
+                        <button type="button" class="btn btn-dark" onclick="hold()">Hold</button>
+                        <br><br>
                   <div class="form-group row">
                      <div>
                         <label>Total Score</label>
-                        <input class="form-control" id="totalScore2" type="number">
                      </div>
+                     <br><br>
+                      <div>
+                        <div id='totalScore2'></div>
+                    </div>
                   </div>
                </form>
             </div>
