@@ -14,12 +14,15 @@ function roll1() {
     this.ongoingScore += dice1;
   }
   return dice1;
+  var ongoingScore = dice1
+  document.getElementById('totalScore1').innerHTML = ongoingScore;
 }
 
 function roll2() {
   var dice2 = Math.floor(Math.random() * 6) + 1;
   document.getElementById('score2').innerHTML = dice2;
   if (dice2 === 1) {
+    this.ongoingScore = 0;
     alert("You rolled 1! Hold for the next player.")
   } else {
     this.ongoingScore += dice2;
